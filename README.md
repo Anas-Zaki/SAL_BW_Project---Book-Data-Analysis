@@ -1,4 +1,4 @@
-# 📚 SAL_BW_Project_1 - Book Data Analysis
+# 📚 SAL_BW_Project - Book Data Analysis
 
 ## 📝 Overview
 SAL_BW_Project_1 is a comprehensive data analysis project focused on web scraping book data, storing it in a structured format, and performing exploratory data analysis (EDA). The project integrates web scraping, SQL querying, and data visualization techniques to derive meaningful insights from the dataset.
