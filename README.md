@@ -12,7 +12,7 @@ SAL_BW_Project/
 │── 📂 notebooks/              # Jupyter notebooks for analysis
 │   │── 📄 web_scraping.ipynb   # Web scraping script using BeautifulSoup
 │   │── 📄 EDA.ipynb            # Exploratory Data Analysis notebook
-│   │── 📄 sql_queries.ipynb    # SQL queries for extracting insights
+│   │── 📄 sql.ipynb    # SQL queries for extracting insights
 ```
 
 ## 🌐 Web Scraping
